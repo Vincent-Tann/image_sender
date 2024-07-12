@@ -1,0 +1,25 @@
+# 忽略VS Code的配置文件
+.vscode
+
+# 忽略Python的编译缓存
+__pycache__/
+*.py[cod]
+
+# 忽略Python的编译文件
+*.pyo
+*.pyc
+
+# 忽略IDE的配置文件
+*.ide
+.idea
+*.idea/*
+
+# 忽略其他可能的编译文件
+*.o
+*.obj
+
+# 忽略其他可能的配置文件
+*.DS_Store
+.DS_Store?
+._*
+Thumbs.db
